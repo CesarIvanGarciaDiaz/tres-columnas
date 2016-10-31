@@ -1,0 +1,43 @@
+.container {
+  margin: 0 auto;
+  width: 750px;
+}
+
+header {
+  background-color: black;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+
+.main-title {
+  text-align: center;
+}
+
+li{
+ list-style-type: square;
+  /*list-style-type: upper-roman;
+  list-style-type: lower-alpha;*/
+}
+
+.izquierda{
+float: left;
+width: 250px;
+
+}
+
+.centro{
+  width: 250px;
+  float: left;
+}
+
+.derecha{
+  width: 250px;
+  float: right;
+}
+
+#title{
+  padding: 0 0px 0 45px;
+}
